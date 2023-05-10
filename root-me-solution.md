@@ -87,7 +87,7 @@ illustration 2:
 - on l'ouvre avec "Wireshark"
 - On va dans l'option wireless --> Bluetooth Devices --> clic droite
 illustration 1:
-![subject-5](images/Capture.PNG.PNG)
+![subject-5](images/Capture.PNG)
 - On trasmet les données en forme addresse Mac  avec le nom du telephone 0C:B3:19:B9:4F:C6GT-S7390G
 - On encrypt 0C:B3:19:B9:4F:C6GT-S7390G par : https://www.sha1.fr/
 > ==> c1d0349c153ed96fe2fadf44e880aef9e69c122b
