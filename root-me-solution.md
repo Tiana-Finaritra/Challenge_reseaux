@@ -82,7 +82,7 @@ illustration 2:
 > ==> password
 
 
-### Authentification twitter
+### Bluetooth 
 - on ouvre le boutton "démmarer le challenge" dans une nouvelle onglet, cela telecharge un fichier ch18.bin
 - on l'ouvre avec "Wireshark"
 - On va dans l'option wireless --> Bluetooth Devices --> clic droite
